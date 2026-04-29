@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jpviguini.github.io/jpviguinii.github.io//al-folio/sitemap.xml
+Sitemap: https://jpviguini.github.io/jpviguinii.github.io/sitemap.xml
